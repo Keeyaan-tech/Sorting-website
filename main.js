@@ -15,7 +15,7 @@ name_of_the_student_array.push(name_4);
 console.log(name_of_the_student_array);
 
 document.getElementById("display_name").innerHTML = name_of_the_student_array;
-document.getElementById("submit_buttons").style.display = "none";
+document.getElementById("submit_button").style.display = "none";
 document.getElementById("sort_button").style.display = "inline-block";
 }
 
